@@ -61,4 +61,5 @@ SkinSync.Cli/
 │  ├─ Engine/        # RecommendationEngine, RoutinePrinter (CLI helper)
 ├─ Data/             # RoutineRepository (JSON loading + fallback selection)
 ├─ Resources/        # routines.json
-└─ Program.cs        # demo runner (will later become interactive / API-backed)
+└─ Program.cs        # demo runner (will later become 1
+interactive / API-backed)
