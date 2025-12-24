@@ -9,17 +9,24 @@
 
   <ItemGroup>
     <None Remove="Resources\routines.json" />
+    <None Remove="Resources\routines1.json" />
+    <None Remove="Resources\routines_test.json" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="Resources\routines.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\routines1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\routines_test.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Core\Input\" />
-    <Folder Include="Data\" />
   </ItemGroup>
 
 </Project>

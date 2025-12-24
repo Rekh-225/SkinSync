@@ -1,0 +1,242 @@
+﻿[
+  {
+    "skinType": "Oily",
+    "weather": "Hot",
+    "cleanser": "Foaming gel cleanser",
+    "moisturizer": "Ultra-light oil-free gel",
+    "sunscreen": "Matte finish water-resistant sunscreen",
+    "notes": "Double cleanse in the evening if sweating heavily to remove excess sebum and sunscreen."
+  },
+  {
+    "skinType": "Oily",
+    "weather": "Cold",
+    "cleanser": "Gentle foaming cleanser",
+    "moisturizer": "Lightweight lotion with ceramides",
+    "sunscreen": "Oil-free fluid sunscreen",
+    "notes": "Even oily skin can get dehydrated in the cold, so avoid stripping cleansers."
+  },
+  {
+    "skinType": "Oily",
+    "weather": "Humid",
+    "cleanser": "Deep cleansing foam",
+    "moisturizer": "Mattifying gel moisturizer",
+    "sunscreen": "Powder-finish or gel sunscreen",
+    "notes": "Humidity increases oil production; use blotting papers throughout the day."
+  },
+  {
+    "skinType": "Oily",
+    "weather": "Dry",
+    "cleanser": "Hydrating foam cleanser",
+    "moisturizer": "Gel-cream hybrid moisturizer",
+    "sunscreen": "Non-greasy lotion sunscreen",
+    "notes": "Focus on hydration (water) rather than oil to prevent skin from overcompensating."
+  },
+  {
+    "skinType": "Oily",
+    "weather": "Moderate",
+    "cleanser": "Standard gel cleanser",
+    "moisturizer": "Oil-free moisturizing lotion",
+    "sunscreen": "Lightweight dry-touch sunscreen",
+    "notes": "A consistent routine with salicylic acid (if tolerated) helps maintain clarity."
+  },
+  {
+    "skinType": "Dry",
+    "weather": "Hot",
+    "cleanser": "Creamy wash",
+    "moisturizer": "Lightweight hydrating cream",
+    "sunscreen": "Moisturizing sunscreen lotion",
+    "notes": "Sweat can irritate dry skin, so rinse your face with cool water after heat exposure."
+  },
+  {
+    "skinType": "Dry",
+    "weather": "Cold",
+    "cleanser": "Oil-based cleanser or cleansing balm",
+    "moisturizer": "Rich barrier-repair cream",
+    "sunscreen": "Cream-based sunscreen with emollients",
+    "notes": "Layer a face oil over your moisturizer at night to lock in hydration."
+  },
+  {
+    "skinType": "Dry",
+    "weather": "Humid",
+    "cleanser": "Gentle milk cleanser",
+    "moisturizer": "Standard lotion",
+    "sunscreen": "Lightweight hydrating sunscreen",
+    "notes": "You may be able to use a lighter moisturizer than usual due to the ambient humidity."
+  },
+  {
+    "skinType": "Dry",
+    "weather": "Dry",
+    "cleanser": "Cream cleanser",
+    "moisturizer": "Heavy ultra-rich cream",
+    "sunscreen": "Hydrating cream sunscreen",
+    "notes": "Apply moisturizer while skin is still damp to seal in water."
+  },
+  {
+    "skinType": "Dry",
+    "weather": "Moderate",
+    "cleanser": "Hydrating cleanser",
+    "moisturizer": "Standard moisturizing cream",
+    "sunscreen": "Broad-spectrum moisturizing SPF",
+    "notes": "Exfoliate gently once a week to remove flakes and allow moisturizer to penetrate."
+  },
+  {
+    "skinType": "Combination",
+    "weather": "Hot",
+    "cleanser": "Gel cleanser",
+    "moisturizer": "Gel-cream moisturizer",
+    "sunscreen": "Fluid sunscreen",
+    "notes": "Focus cleansing on the T-zone where oil production is highest."
+  },
+  {
+    "skinType": "Combination",
+    "weather": "Cold",
+    "cleanser": "Cream-to-foam cleanser",
+    "moisturizer": "Lotion for T-zone, Cream for cheeks",
+    "sunscreen": "Standard lotion sunscreen",
+    "notes": "You may need to spot-treat dry patches on cheeks with a heavier cream."
+  },
+  {
+    "skinType": "Combination",
+    "weather": "Humid",
+    "cleanser": "Foaming cleanser",
+    "moisturizer": "Light gel moisturizer",
+    "sunscreen": "Matte finish sunscreen",
+    "notes": "Avoid heavy creams on the nose and forehead to prevent congestion."
+  },
+  {
+    "skinType": "Combination",
+    "weather": "Dry",
+    "cleanser": "Gentle foaming cleanser",
+    "moisturizer": "Nourishing lotion",
+    "sunscreen": "Hydrating fluid sunscreen",
+    "notes": "Dry air affects the cheeks most; ensure they are adequately moisturized."
+  },
+  {
+    "skinType": "Combination",
+    "weather": "Moderate",
+    "cleanser": "Balanced foam cleanser",
+    "moisturizer": "Standard daily lotion",
+    "sunscreen": "Lightweight broad-spectrum SPF",
+    "notes": "This weather is ideal for re-assessing your skin's baseline needs."
+  },
+  {
+    "skinType": "Normal",
+    "weather": "Hot",
+    "cleanser": "Refreshing gel cleanser",
+    "moisturizer": "Water-based lotion",
+    "sunscreen": "Sweat-resistant sunscreen fluid",
+    "notes": "Keep it simple; a light wash and SPF are often enough in high heat."
+  },
+  {
+    "skinType": "Normal",
+    "weather": "Cold",
+    "cleanser": "Cream cleanser",
+    "moisturizer": "Daily moisturizing cream",
+    "sunscreen": "Cream sunscreen",
+    "notes": "Protect skin from windburn with a slightly richer moisturizer than usual."
+  },
+  {
+    "skinType": "Normal",
+    "weather": "Humid",
+    "cleanser": "Gentle foaming wash",
+    "moisturizer": "Light hydrating gel",
+    "sunscreen": "Sheer finish sunscreen",
+    "notes": "Ensure your sunscreen is non-comedogenic to avoid clogging pores in humidity."
+  },
+  {
+    "skinType": "Normal",
+    "weather": "Dry",
+    "cleanser": "Hydrating milk cleanser",
+    "moisturizer": "Rich lotion or light cream",
+    "sunscreen": "Moisturizing SPF",
+    "notes": "Using a humidifier at night can help maintain skin balance."
+  },
+  {
+    "skinType": "Normal",
+    "weather": "Moderate",
+    "cleanser": "Standard gentle cleanser",
+    "moisturizer": "Daily facial lotion",
+    "sunscreen": "Standard broad-spectrum sunscreen",
+    "notes": "Maintain consistency; this is the easiest weather for skin health."
+  },
+  {
+    "skinType": "Sensitive",
+    "weather": "Hot",
+    "cleanser": "Micellar water or gentle gel",
+    "moisturizer": "Soothing gel-cream",
+    "sunscreen": "Mineral (zinc/titanium) sunscreen",
+    "notes": "Heat can trigger redness; keep products cool or in the fridge."
+  },
+  {
+    "skinType": "Sensitive",
+    "weather": "Cold",
+    "cleanser": "Soap-free cream cleanser",
+    "moisturizer": "Barrier-repairing balm",
+    "sunscreen": "Mineral cream sunscreen",
+    "notes": "Cover your face with a scarf to protect against harsh cold winds."
+  },
+  {
+    "skinType": "Sensitive",
+    "weather": "Humid",
+    "cleanser": "Gentle liquid cleanser",
+    "moisturizer": "Light calming lotion",
+    "sunscreen": "Lightweight mineral sunscreen",
+    "notes": "Humidity breeds bacteria; change pillowcases frequently to prevent irritation."
+  },
+  {
+    "skinType": "Sensitive",
+    "weather": "Dry",
+    "cleanser": "Non-foaming lotion cleanser",
+    "moisturizer": "Rich hypoallergenic cream",
+    "sunscreen": "Hydrating mineral SPF",
+    "notes": "Avoid hot water when washing face as it strips natural oils."
+  },
+  {
+    "skinType": "Sensitive",
+    "weather": "Moderate",
+    "cleanser": "Fragrance-free cleanser",
+    "moisturizer": "Simple soothing moisturizer",
+    "sunscreen": "Mineral-based SPF 30+",
+    "notes": "Patch test new products even when the weather is mild."
+  },
+  {
+    "skinType": "AcneProne",
+    "weather": "Hot",
+    "cleanser": "Clarifying foaming wash",
+    "moisturizer": "Oil-free gel",
+    "sunscreen": "Non-comedogenic matte SPF",
+    "notes": "Wash face immediately after sweating to prevent breakouts."
+  },
+  {
+    "skinType": "AcneProne",
+    "weather": "Cold",
+    "cleanser": "Gentle foam cleanser",
+    "moisturizer": "Oil-free hydrating lotion",
+    "sunscreen": "Non-comedogenic fluid sunscreen",
+    "notes": "Avoid over-drying acne products in winter as irritation can worsen acne."
+  },
+  {
+    "skinType": "AcneProne",
+    "weather": "Humid",
+    "cleanser": "Salicylic acid cleanser (if tolerated)",
+    "moisturizer": "Ultra-light matte gel",
+    "sunscreen": "Water-based gel sunscreen",
+    "notes": "Keep hair off the face to reduce oil transfer in sticky weather."
+  },
+  {
+    "skinType": "AcneProne",
+    "weather": "Dry",
+    "cleanser": "Cream-to-foam gentle cleanser",
+    "moisturizer": "Non-comedogenic cream",
+    "sunscreen": "Lightweight moisturizing SPF",
+    "notes": "Hydration is key; dry skin cells can trap oil and bacteria."
+  },
+  {
+    "skinType": "AcneProne",
+    "weather": "Moderate",
+    "cleanser": "Balanced gel cleanser",
+    "moisturizer": "Lightweight oil-free lotion",
+    "sunscreen": "Oil-free broad-spectrum sunscreen",
+    "notes": "Stick to non-comedogenic makeup and skincare products strictly."
+  }
+]
