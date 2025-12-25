@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinSync.Cli", "SkinSync.Cli\SkinSync.Cli.csproj", "{71588EC1-7C7C-CC37-8222-5B48E1F62FA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinSync.Tests", "SkinSync.Tests\SkinSync.Tests.csproj", "{A3E4CF12-633C-43B0-995A-43EE6A040691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{71588EC1-7C7C-CC37-8222-5B48E1F62FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71588EC1-7C7C-CC37-8222-5B48E1F62FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71588EC1-7C7C-CC37-8222-5B48E1F62FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E4CF12-633C-43B0-995A-43EE6A040691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E4CF12-633C-43B0-995A-43EE6A040691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E4CF12-633C-43B0-995A-43EE6A040691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E4CF12-633C-43B0-995A-43EE6A040691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

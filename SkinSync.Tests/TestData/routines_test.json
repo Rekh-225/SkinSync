@@ -1,0 +1,34 @@
+﻿[
+  {
+    "skinType": "Oily",
+    "weather": "Hot",
+    "cleanser": "Gel-based foaming cleanser",
+    "moisturizer": "Oil-free lightweight moisturizer",
+    "sunscreen": "Matte SPF 50 sunscreen",
+    "notes": "Exact-match demo: Oily + Hot."
+  },
+  {
+    "skinType": "Dry",
+    "weather": "Hot",
+    "cleanser": "Cream-based gentle cleanser",
+    "moisturizer": "Light hydrating cream",
+    "sunscreen": "Moisturizing SPF 50",
+    "notes": "SkinType-fallback demo: Dry exists, but not for every weather."
+  },
+  {
+    "skinType": "Normal",
+    "weather": "Humid",
+    "cleanser": "Gentle gel cleanser",
+    "moisturizer": "Light gel moisturizer",
+    "sunscreen": "SPF 30",
+    "notes": "Weather-fallback demo: Humid exists, but some SkinTypes are missing from dataset."
+  },
+  {
+    "skinType": "Normal",
+    "weather": "Moderate",
+    "cleanser": "Gentle cleanser",
+    "moisturizer": "Daily moisturizer",
+    "sunscreen": "SPF 30",
+    "notes": "Default demo: Normal + Moderate (must exist)."
+  }
+]
